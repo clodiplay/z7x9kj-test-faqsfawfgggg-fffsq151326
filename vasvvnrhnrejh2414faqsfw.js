@@ -14,12 +14,12 @@
     'use strict';
 
     /*****************************************
-     * 1. Стили22
+     * 1. Стили22dasdas
      *****************************************/
     const style = document.createElement('style');
     style.innerHTML = `
         body {
-            font-family: sans-serif;
+            font-family: sans-serif;fasf
         }
         /* Основная панель */
         #autoDonatorPanel {
