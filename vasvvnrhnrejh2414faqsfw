@@ -12,7 +12,7 @@
     'use strict';
 
     /*****************************************
-     * 1. Стили
+     * 1. Стили аааа
      *****************************************/
     const style = document.createElement('style');
     style.innerHTML = `
