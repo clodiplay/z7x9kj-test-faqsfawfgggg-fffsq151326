@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoDonator (GitHub CDN)
 // @namespace    https://clodiplay.github.io/
-// @version      2.1
+// @version      2.12
 // @description  Автодонат с GitHub. Автообновление включено.
 // @match        https://www.donationalerts.com/dashboard/activity-feed/donations
 // @require      https://clodiplay.github.io/z7x9kj-test-faqsfawfgggg-fffq151326/vasvvnrhnrejh2414faqsfw
@@ -14,7 +14,7 @@
     'use strict';
 
     /*****************************************
-     * 1. Стили
+     * 1. Стили22
      *****************************************/
     const style = document.createElement('style');
     style.innerHTML = `
