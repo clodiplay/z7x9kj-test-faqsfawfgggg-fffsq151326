@@ -1,18 +1,20 @@
 // ==UserScript==
-// @name         AutoDonator Enhanced UI Dark + Extra mode + DarkOrange Inputs
-// @namespace    http://tampermonkey.net/
-// @version      2.2
-// @description  Автодонат: основной + дополнительный режим. Поля ввода тёмно-оранжевые, extra-режим удаляет сообщения из памяти после отправки.
+// @name         AutoDonator (GitHub CDN)
+// @namespace    https://clodiplay.github.io/
+// @version      2.1
+// @description  Автодонат с GitHub. Автообновление включено.
 // @match        https://www.donationalerts.com/dashboard/activity-feed/donations
+// @require      https://clodiplay.github.io/z7x9kj-test-faqsfawfgggg-fffq151326/vasvvnrhnrejh2414faqsfw
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
+
 
 (function() {
     'use strict';
 
     /*****************************************
-     * 1. Стили аааа
+     * 1. Стили
      *****************************************/
     const style = document.createElement('style');
     style.innerHTML = `
