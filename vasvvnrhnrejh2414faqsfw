@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoDonator Enhanced UI Dark + Extra mode + DarkOrange Inputs
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2.2
 // @description  Автодонат: основной + дополнительный режим. Поля ввода тёмно-оранжевые, extra-режим удаляет сообщения из памяти после отправки.
 // @match        https://www.donationalerts.com/dashboard/activity-feed/donations
 // @grant        GM_setValue
